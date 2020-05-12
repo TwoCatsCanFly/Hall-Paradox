@@ -1,2 +1,2 @@
 # Hall-Paradox
-Python based simple proof of that dilemma, very simple.
+Python based simple proof of that dilemma.
